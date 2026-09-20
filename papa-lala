@@ -467,24 +467,16 @@ local plr = game.Players.LocalPlayer
 local mps = game:GetService("MarketplaceService")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/alebinh60/asmobile/refs/heads/main/anhyeuvy"))()
 local ownerList = {
-    ["anhchangm5"] = true,
-    ["Dao_Beo"] = true,
-    ["anhchangm52"] = true,
-    ["anhaycogihontoi"] = true,
-    ["anhchongyeuvo"] = true,
-    ["anhchangm53"] = true,
-    ["PrimalSlime200560"] = true,
+["hamid3h2"] = true,
 }
 
 getgenv().premiumUsers = {
-    ["Fkgebder"] = true,
-    ["Newproarley"] = true,
-    ["Bannanaman3160"] = true,
+    ["hamid3h2"] = true,
 }
 
 --// BYPASS USERS (NO GAMEPASS NEEDED)
 getgenv().bypassUsers = {
-    ["Bannanaman3160"] = true,
+    ["hamid3h2"] = true,
 }
 
 local isOwner = ownerList[plr.Name] == true
